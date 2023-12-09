@@ -32,6 +32,12 @@
 $ pnpm install
 ```
 
+## Run Database postgres on Docker
+
+```bash
+$ docker-compose up
+```
+
 ## Running the app
 
 ```bash
